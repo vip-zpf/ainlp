@@ -12,4 +12,7 @@ public class NlpSentence {
 
     @ApiModelProperty(value = "单句实体识别结果List", position = 2)
     private List<SentenceNer> sentenceNerList;
+
+    @ApiModelProperty(value = "多音字识别结果List", position = 2)
+    private List<SentencePinYin> sentencePinYinList;
 }
