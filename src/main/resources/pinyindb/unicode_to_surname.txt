@@ -1,0 +1,188 @@
+6D47 (ao4)
+
+67CF (bai3)
+9C8D (bao4)
+8D32 (ben1)
+79D8 (bi4)
+8584 (bo2)
+535C (bu3)
+4E0D (fou1)
+508D (bang4)
+
+5C91 (cen2)
+6641 (chao2)
+8C0C (chen2)
+79CD (chong2)
+891A (chu3)
+555C (chuai4)
+8F66 (che1)
+679E (cong1)
+79F0 (cheng1)
+4E58 (cheng2)
+91CD (chong2)
+
+
+90B8 (di3)
+90FD (du1)
+6597 (dou4)
+
+
+963F (e1)
+
+
+8D39 (fei4)
+82FB (fu2)
+752B (fu3)
+5B93 (fu2)
+670D (fu2)
+
+
+76D6 (gai4)
+5E72 (gan1)
+6772 (gao3)
+6208 (ge1)
+845B (ge3)
+826E (gen4)
+51A0 (guan4)
+89C2 (guan4)
+59AB (gui1)
+8FC7 (guo1)
+53E5 (gou1)
+6D3C (gui1)
+839E (guan1)
+
+
+54C8 (ha3)
+90DD (hao3)
+534E (hua4)
+548C (he2)
+
+
+7EAA (ji3)
+9773 (jin4)
+96BD (juan4)
+8D3E (jia3)
+4FF1 (ju1)
+8E47 (jian3)
+
+
+961A (kan4)
+84AF (kuai3)
+9697 (kui2)
+8489 (kuai4)
+4F1A (kuai4)
+
+
+853A (lin4)
+9646 (lu4)
+516D (lu4)
+
+
+8499 (meng2)
+5B93 (mi4)
+7F2A (miao4)
+725F (mou2)
+
+
+90A3 (na1)
+4E5C (nie4)
+5B81 (ning4)
+80FD (nai4)
+7D6E (nu3)
+4F74 (nai4)
+96BE (ning4)
+
+
+
+533A (ou1)
+
+
+9022 (pang2)
+90B3 (pi1)
+6734 (piao2)
+7E41 (po2)
+8386 (pu2)
+84B2 (pu2)
+6FEE (pu2)
+6EA5 (pu3)
+756A (po2)
+88E8 (pi2)
+8543 (pi)
+
+
+4E93 (qi2)
+621A (qi1)
+8C2F (qiao2)
+8983 (qin2)
+4EC7 (qiu2)
+66F2 (qu1)
+77BF (qu2)
+
+
+5189 (ran3)
+4EFB (ren2)
+
+
+5355 (shan4)
+5C11 (shao4)
+538D (she4)
+8398 (shen1)
+5962 (sha2)
+76DB (sheng4)
+772D (sui1)
+6563 (san3)
+5BBF (su4)
+
+
+6FB9 (tan2)
+4F5F (tong2)
+5F64 (tong2)
+
+
+5B9B (wan3)
+5371 (wei1)
+97E6 (wei2)
+5C09 (wei4)
+
+90E4 (xi4)
+51BC (xian3)
+6D17 (xian3)
+89E3 (xie4)
+76F8 (xiang1)
+
+
+71D5 (yan1)
+5E7A (yao1)
+6BB7 (yin1)
+5E94 (ying1)
+65BC (yu1)
+5EBE (yu3)
+5C09 (yu4)
+4E50 (yue4)
+90E7 (yun2)
+5458 (yun4)
+607D (yun4)
+90D3 (yun4)
+6C82 (yi2)
+8981 (yao1)
+94EB (yao2)
+851A (yu4)
+4FDE (yu2)
+
+
+
+81E7 (zang1)
+67E5 (zha1)
+7FDF (zhai2)
+796D (zhai4)
+7826 (zhai4)
+5360 (zhan1)
+4EC9 (zhang3)
+7AFA (zhu2)
+8A3E (zi1)
+5C6F (zhun1)
+4E2D (zhong1)
+58EE (zhuang1)
+77E5 (zhi4)
+66FE (zeng1)
+624E (za1)

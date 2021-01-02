@@ -1,4 +1,4 @@
-package com.zpf.ainlp.utils;
+package com.zpf.ainlp.pinyin;
 
 import net.sourceforge.pinyin4j.PinyinHelper;
 import org.apache.commons.lang3.StringUtils;
@@ -9,6 +9,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class PinYinUtil {
+
+    public static String[] toHanyuPinyinStringArray(char ch) {
+        return getUnformattedHanyuPinyinStringArray(ch);
+    }
+    private static String[] getUnformattedHanyuPinyinStringArray(char ch) {
+        return ChineseSurnameToPinyinResource.getInstance().getHanyuPinyinStringArray(ch);
+    }
 
     public static boolean checkDuoYin(String str){
         char[] chars = str.toCharArray();
